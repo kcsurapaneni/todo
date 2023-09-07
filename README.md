@@ -5,3 +5,4 @@ Projects that are in mind to work on future
 - GraphQL
 - Adding Python service as part of observability project
 - Reactive Spring
+- Database read & write repilica
